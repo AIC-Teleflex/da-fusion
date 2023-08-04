@@ -1,0 +1,279 @@
+{
+  "images": [
+    {
+      "width": 120,
+      "height": 74,
+      "id": 0,
+      "file_name": "images\/36c114a4-D-45703-010_1.png"
+    },
+    {
+      "width": 120,
+      "height": 51,
+      "id": 1,
+      "file_name": "images\/11f15ae3-H-11142-105A_1.png"
+    },
+    {
+      "width": 120,
+      "height": 51,
+      "id": 2,
+      "file_name": "images\/8ab247ba-H-11142-106A_1.png"
+    },
+    {
+      "width": 120,
+      "height": 47,
+      "id": 3,
+      "file_name": "images\/d20fae29-K-15703-124A_1.png"
+    },
+    {
+      "width": 80,
+      "height": 120,
+      "id": 4,
+      "file_name": "images\/6335639a-K-42802-012_1.png"
+    },
+    {
+      "width": 119,
+      "height": 120,
+      "id": 5,
+      "file_name": "images\/4231f15b-N-45703-001_1.png"
+    },
+    {
+      "width": 113,
+      "height": 120,
+      "id": 6,
+      "file_name": "images\/7f71fbe1-N-45703-002_1.png"
+    },
+    {
+      "width": 61,
+      "height": 120,
+      "id": 7,
+      "file_name": "images\/8e573d2b-NS-15703-003_1.png"
+    },
+    {
+      "width": 13,
+      "height": 120,
+      "id": 8,
+      "file_name": "images\/ce02a9d6-P-42854-002_1.png"
+    },
+    {
+      "width": 93,
+      "height": 120,
+      "id": 9,
+      "file_name": "images\/60cfb9e2-R-09903-003_1.png"
+    },
+    {
+      "width": 120,
+      "height": 78,
+      "id": 10,
+      "file_name": "images\/312c9159-XX-04510-101A_1.png"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "drape comm"
+    },
+    {
+      "id": 1,
+      "name": "dressing comm"
+    },
+    {
+      "id": 2,
+      "name": "dual end skin and utility marker"
+    },
+    {
+      "id": 3,
+      "name": "label"
+    },
+    {
+      "id": 4,
+      "name": "label comm"
+    },
+    {
+      "id": 5,
+      "name": "needle comm"
+    },
+    {
+      "id": 6,
+      "name": "syringe"
+    },
+    {
+      "id": 7,
+      "name": "tubing assy"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        2.1686746987951806,
+        1.8072289156626504,
+        117.83132530120481,
+        70.48192771084338
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 8304.978951952387
+    },
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        0.40909090909090906,
+        0.8181818181818182,
+        119.59090909090908,
+        50.18181818181818
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 6001.289256198346
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 4,
+      "segmentation": [],
+      "bbox": [
+        0.2727272727272727,
+        0.4090909090909091,
+        119.04545454545452,
+        49.0909090909091
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 5844.0495867768595
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        1.0909090909090908,
+        0.9545454545454547,
+        118.09090909090908,
+        45.27272727272728
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 5346.297520661157
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "segmentation": [],
+      "bbox": [
+        0.0,
+        0.0,
+        79.3220338983051,
+        119.12832929782081
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 9449.501374810194
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 5,
+      "segmentation": [],
+      "bbox": [
+        1.4527845036319613,
+        0.5811138014527846,
+        117.54721549636803,
+        119.41888619854723
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 14037.35755031688
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 5,
+      "segmentation": [],
+      "bbox": [
+        1.7433414043583533,
+        0.5811138014527846,
+        111.25665859564165,
+        119.41888619854723
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 13286.146251663551
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 6,
+      "segmentation": [],
+      "bbox": [
+        0.8716707021791766,
+        0.0,
+        60.12832929782083,
+        120.0
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 7215.399515738499
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 2,
+      "segmentation": [],
+      "bbox": [
+        0.29055690072639223,
+        0.2905569007263923,
+        12.709443099273608,
+        119.70944309927361
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 1521.4403555159497
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 7,
+      "segmentation": [],
+      "bbox": [
+        0.29055690072639223,
+        0.0,
+        92.70944309927361,
+        120.0
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 11125.133171912834
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 3,
+      "segmentation": [],
+      "bbox": [
+        0.18886198547215496,
+        0.37772397094430993,
+        119.81113801452784,
+        77.6222760290557
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 9300.013226318968
+    }
+  ],
+  "info": {
+    "year": 2023,
+    "version": "1.0",
+    "description": "",
+    "contributor": "Label Studio",
+    "url": "",
+    "date_created": "2023-08-02 22:30:12.284530"
+  }
+}
