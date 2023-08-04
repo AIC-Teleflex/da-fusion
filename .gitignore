@@ -4,9 +4,7 @@ __pycache__/
 *$py.class
 
 # images
-*.png
-*.jpg
-*.pdf
+
 
 # experiment data
 *.out
@@ -137,3 +135,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore the dataset coco 
+coco-original/coco_2017/annotations/*.*
+coco-original/coco_2017/train2017/*.*
+coco-original/coco_2017/val2017/*.*
+coco-original/coco_2017/*.zip
